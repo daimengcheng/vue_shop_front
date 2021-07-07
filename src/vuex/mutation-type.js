@@ -1,0 +1,7 @@
+export const REVEVIC_MENU_LIST = 'revevic_menu_list'
+export const REVEVIC_USER = 'revevic_user'
+export const CHANGE_PAGE_SIZE = 'change_page_size'
+export const CHANGE_PAGE_NUM = 'change_page_num'
+export const CHANGE_MG_STATE = 'change_mg_state'
+export const CHANGE_QUERYKEYWORD = 'change_querykeyword'
+export const REVEVIC_GOODS_LIST = 'revevic_goods_list'
